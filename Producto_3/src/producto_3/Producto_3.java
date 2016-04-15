@@ -16,6 +16,7 @@ public class Producto_3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.err.println("Hola Mundo");
     }
     
 }
